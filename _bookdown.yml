@@ -1,0 +1,13 @@
+delete_merged_file: true
+rmd_files: ["index.Rmd", 
+            "sections/abstract.Rmd", 
+            "sections/introduction.Rmd", 
+            "sections/methods.Rmd", 
+            "sections/results.Rmd", 
+            "sections/discussion.Rmd",
+            "sections/conclusion.Rmd",
+            "sections/end.Rmd", 
+            "sections/references.Rmd", 
+            "sections/figures.Rmd", 
+            "sections/tables.Rmd", 
+            "sections/supplementary_materials.Rmd"]

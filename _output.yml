@@ -1,0 +1,10 @@
+bookdown::word_document2:
+  reference_docx: include/template.docx
+  fig_caption: true
+  number_sections: false
+bookdown::pdf_document2:
+  latex_engine: xelatex
+  keep_tex: true
+  toc: false
+  includes:
+    in_header: include/preamble.tex
